@@ -16,14 +16,13 @@ Internet
 
 
 Electronics
-1
-2
-
-3
-4
-5
-6
-7
+1 Object Oreinted Program
+2 Engineering Maths III
+3 Eectronics Device Circuit
+4 Electrical Circuit Theory
+5 Electromagnetisum
+6 Electrical Engineering Material 
+7 Digital Logic
 8
 
 9
